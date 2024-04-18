@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Josh!
+
+TI Engineer sharing about learnings in tech<br/>
+Studying information technologies at Benemerita Universidad Autonoma de Puebla<br/>
+Currently learning about cybersecurity and web developer<br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosueVazqJim&show_icons=true&theme=tokyonight)
 
 <!--
 **JosueVazqJim/JosueVazqJim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
