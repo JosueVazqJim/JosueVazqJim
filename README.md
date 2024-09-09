@@ -1,5 +1,5 @@
 # 💫 Hi I'm Josh:
-💡TI Engineer sharing about learnings in tech<br/>📚 Studying information technologies at Benemerita Universidad Autonoma de Puebla<br/>👨🏻‍💻 I'm currently working on my thesis project for my IT engineering degree, focusing on web development and game design.<br>🌱 I’m currently learning more about game design, web developer.<br>👯‍♂️ I’m looking to collaborate on projects related to web technologies and game development.<br>📫 How to reach me: josuevj.1e.49@gmail.com<br>😄 Pronouns: He/Him<br>🛡️ Enemy of post-truth
+💡TI Engineer sharing about learnings in tech<br/>📚 Studying information technologies at Benemerita Universidad Autonoma de Puebla<br/>🌱 I’m currently learning more about game design, web developer.<br>👯‍♂️ I’m looking to collaborate on projects related to web technologies and game development.<br>📫 How to reach me: josuevj.1e.49@gmail.com<br>😄 Pronouns: He/Him<br>🛡️ Enemy of post-truth
 
 
 ## 🌐 Socials:
